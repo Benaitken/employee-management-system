@@ -1,6 +1,9 @@
 Employee Management System:
+
 A simple Python Employee Management System built using OOP.  
+
 Features include adding employees, listing employees, searching by ID, and role-specific bonus calculations.
+
 This project demonstrates:
 - Classes & inheritance (Employee, Manager, Developer, Intern)
 - Encapsulation using @property
